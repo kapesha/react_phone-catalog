@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.9e71b729.css",
-    "main.js": "./static/js/main.74590903.js",
+    "main.css": "./static/css/main.c4d865b7.css",
+    "main.js": "./static/js/main.c7d055ee.js",
     "static/media/category-tablets.png": "./static/media/category-tablets.51782e18205a1ca01ce8.png",
     "static/media/banner-tablets.png": "./static/media/banner-tablets.3ab0c9b71cae9e04b094.png",
     "static/media/category-phones.png": "./static/media/category-phones.af93d992917380dfe206.png",
@@ -9,6 +9,7 @@
     "static/media/banner-accessories.png": "./static/media/banner-accessories.6a3884f3f1091702f8ed.png",
     "static/media/category-accessories.png": "./static/media/category-accessories.e47d6d6df68a6548e82b.png",
     "static/media/logo.svg": "./static/media/logo.17c0e2d16691379ae32800c756d6d64a.svg",
+    "static/media/favicon.svg": "./static/media/favicon.9c6c4ceb6d7831207466ad11addd52a2.svg",
     "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
     "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
     "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
@@ -30,11 +31,11 @@
     "static/media/minusGray.svg": "./static/media/minusGray.4b7c4fa33c66c0b35185.svg",
     "static/media/minus.svg": "./static/media/minus.cecb4be39afa7b933ec1.svg",
     "index.html": "./index.html",
-    "main.9e71b729.css.map": "./static/css/main.9e71b729.css.map",
-    "main.74590903.js.map": "./static/js/main.74590903.js.map"
+    "main.c4d865b7.css.map": "./static/css/main.c4d865b7.css.map",
+    "main.c7d055ee.js.map": "./static/js/main.c7d055ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e71b729.css",
-    "static/js/main.74590903.js"
+    "static/css/main.c4d865b7.css",
+    "static/js/main.c7d055ee.js"
   ]
 }
